@@ -42,7 +42,7 @@ export function Hero({ content, language, onLanguageChange }) {
           <div className="absolute -inset-6 rounded-[2.5rem] bg-blue-500/10 blur-2xl" />
           <div className="relative overflow-hidden rounded-[1.75rem] border border-white/10 bg-white/5 p-2 shadow-2xl shadow-black/35">
             <img
-              src="/images/sellcar-hero.png"
+              src={`${import.meta.env.BASE_URL}images/sellcar-hero.png`}
               alt={hero.imageAlt}
               className="aspect-[4/3] w-full rounded-[1.35rem] object-cover"
             />
