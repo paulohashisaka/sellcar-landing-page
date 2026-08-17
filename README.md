@@ -34,7 +34,7 @@ It represents another important step in my learning journey as I continue buildi
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="./public/images/sellcar-hero.png" alt="SellCar preview" width="900" />
+  <img src="./public/images/sellcar_home_image.png" alt="Preview da página inicial do SellCar em japonês" width="900" />
 </p>
 
 ---
